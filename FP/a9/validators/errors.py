@@ -1,0 +1,2 @@
+class StringError(Exception):
+    pass

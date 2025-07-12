@@ -1,0 +1,41 @@
+2,Fratii Karamazov,Dostoievsky
+
+3,Crima si pedeapsa,Dostoievsky
+
+4,Anna Karenina,Leo Tolstoy
+
+5,Povestea lui Harap-Alb,Ion Creanga
+
+6,Ion,Liviu Rebreanu
+
+7,Moara cu Noroc,Ioan Slavici
+
+9,O scrisoare pierduta,Ion Luca Caragiale
+
+10,Ulysses,James Joyce
+
+11,The Great Gatsby,F. Scott Fitzgerald
+
+12,Nineteen Eighty-Four,George Orwell
+
+13,A Tale of Two Cities,Charles Dickens
+
+14,The Name of the Rose,Umberto Eco
+
+15,To Kill a Mockingbird,Harper Lee
+
+16,War and Peace,Leo Tolstoy
+
+17,Animal Farm,George Orwell
+
+18,Pride and Prejudice,Jane Austen
+
+19,The Chronicles of Narnia,C. S. Lewis
+
+20,Fahrenheit 451,Ray Bradbury
+
+8,Poezii,Lucian Blaga
+
+1,Luceafarul,Mihai Eminescu
+
+21,aaa,bbb
